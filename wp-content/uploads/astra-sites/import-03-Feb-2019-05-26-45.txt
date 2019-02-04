@@ -1,0 +1,211 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Darwin
+Software 		: Apache
+MySQL version 		: 5.7.23
+XML Reader 		: Yes
+PHP Version 		: 7.2.10
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 8M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 8 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 05:33:24 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 05:33:25 UTC
+
+---
+
+2. Importing "XML"  - 05:33:25 UTC
+Failed to import astra-site-page-builder Beaver Builder
+Invalid taxonomy.
+Failed to import astra-site-page-builder Brizy
+Invalid taxonomy.
+Failed to import astra-site-page-builder Elementor
+Invalid taxonomy.
+Failed to import astra-sites-type Free
+Invalid taxonomy.
+Failed to import astra-sites-type Premium
+Invalid taxonomy.
+Imported "Home" (Page)
+Post 2 remapped to 2
+Imported "Contact Form 1" (Contact Form)
+Post 4 remapped to 13
+Imported "astra" (Custom CSS)
+Post 11 remapped to 14
+Imported "Bridal shoes & flowers bouquet" (Media)
+Post 199 remapped to 199
+Imported "Flowers used for decoration" (Media)
+Post 234 remapped to 234
+Imported "Happy newlyweds hugging each other" (Media)
+Post 235 remapped to 235
+Imported "Smiling bride embracing her husband" (Media)
+Post 236 remapped to 236
+Imported "Bride holding bouquet in hands" (Media)
+Post 237 remapped to 237
+Imported "Cheerful newlyweds sunlight street" (Media)
+Post 238 remapped to 238
+Imported "Groom putting ring bride's finger" (Media)
+Post 239 remapped to 239
+Imported "Bridal shoes & flowers bouquet" (Media)
+Post 240 remapped to 240
+Imported "Bride with beautiful necklace" (Media)
+Post 241 remapped to 241
+Imported "Love hearts" (Media)
+Post 333 remapped to 333
+Imported "Wedding Car Icon" (Media)
+Post 358 remapped to 358
+Imported "Couple Bed Icon" (Media)
+Post 365 remapped to 365
+Imported "Wedding Dress Icon" (Media)
+Post 367 remapped to 367
+Imported "Camera Icon" (Media)
+Post 369 remapped to 369
+Imported "Celebration Icon" (Media)
+Post 371 remapped to 371
+Imported "Serving Food Icon" (Media)
+Post 373 remapped to 373
+Imported "Love Birds Icon" (Media)
+Post 381 remapped to 381
+Imported "Heart Rainbow Icon" (Media)
+Post 382 remapped to 382
+Imported "Couple smiling newlyweds posing outdoors" (Media)
+Post 406 remapped to 406
+Imported "Well Dressed Groom" (Media)
+Post 408 remapped to 408
+Imported "Wedding-Yost-SEO-free-img" (Media)
+Post 482 remapped to 482
+Imported "Bride-free-img" (Media)
+Post 493 remapped to 493
+Running post-processing for post 2
+Could not find the author for "Home" (post #2)
+Post 2 was imported with author "harshadd", but could not be found
+Post 2 was marked for post-processing, but none was required.
+Running post-processing for post 13
+Could not find the author for "Contact Form 1" (post #13)
+Post 13 was imported with author "harshadd", but could not be found
+Post 13 was marked for post-processing, but none was required.
+Running post-processing for post 14
+Could not find the author for "astra" (post #14)
+Post 14 was imported with author "harshadd", but could not be found
+Post 14 was marked for post-processing, but none was required.
+Running post-processing for post 199
+Could not find the author for "Bridal shoes &#038; flowers bouquet" (post #199)
+Post 199 was imported with author "komalg", but could not be found
+Post 199 was marked for post-processing, but none was required.
+Running post-processing for post 234
+Could not find the author for "Flowers used for decoration" (post #234)
+Post 234 was imported with author "komalg", but could not be found
+Post 234 was marked for post-processing, but none was required.
+Running post-processing for post 235
+Could not find the author for "Happy newlyweds hugging each other" (post #235)
+Post 235 was imported with author "komalg", but could not be found
+Post 235 was marked for post-processing, but none was required.
+Running post-processing for post 236
+Could not find the author for "Smiling bride embracing her husband" (post #236)
+Post 236 was imported with author "komalg", but could not be found
+Post 236 was marked for post-processing, but none was required.
+Running post-processing for post 237
+Could not find the author for "Bride holding bouquet in hands" (post #237)
+Post 237 was imported with author "komalg", but could not be found
+Post 237 was marked for post-processing, but none was required.
+Running post-processing for post 238
+Could not find the author for "Cheerful newlyweds sunlight street" (post #238)
+Post 238 was imported with author "komalg", but could not be found
+Post 238 was marked for post-processing, but none was required.
+Running post-processing for post 239
+Could not find the author for "Groom putting ring bride&#8217;s finger" (post #239)
+Post 239 was imported with author "komalg", but could not be found
+Post 239 was marked for post-processing, but none was required.
+Running post-processing for post 240
+Could not find the author for "Bridal shoes &#038; flowers bouquet" (post #240)
+Post 240 was imported with author "komalg", but could not be found
+Post 240 was marked for post-processing, but none was required.
+Running post-processing for post 241
+Could not find the author for "Bride with beautiful necklace" (post #241)
+Post 241 was imported with author "komalg", but could not be found
+Post 241 was marked for post-processing, but none was required.
+Running post-processing for post 333
+Could not find the author for "Love hearts" (post #333)
+Post 333 was imported with author "komalg", but could not be found
+Post 333 was marked for post-processing, but none was required.
+Running post-processing for post 358
+Could not find the author for "Wedding Car Icon" (post #358)
+Post 358 was imported with author "komalg", but could not be found
+Post 358 was marked for post-processing, but none was required.
+Running post-processing for post 365
+Could not find the author for "Couple Bed Icon" (post #365)
+Post 365 was imported with author "komalg", but could not be found
+Post 365 was marked for post-processing, but none was required.
+Running post-processing for post 367
+Could not find the author for "Wedding Dress Icon" (post #367)
+Post 367 was imported with author "komalg", but could not be found
+Post 367 was marked for post-processing, but none was required.
+Running post-processing for post 369
+Could not find the author for "Camera Icon" (post #369)
+Post 369 was imported with author "komalg", but could not be found
+Post 369 was marked for post-processing, but none was required.
+Running post-processing for post 371
+Could not find the author for "Celebration Icon" (post #371)
+Post 371 was imported with author "komalg", but could not be found
+Post 371 was marked for post-processing, but none was required.
+Running post-processing for post 373
+Could not find the author for "Serving Food Icon" (post #373)
+Post 373 was imported with author "komalg", but could not be found
+Post 373 was marked for post-processing, but none was required.
+Running post-processing for post 381
+Could not find the author for "Love Birds Icon" (post #381)
+Post 381 was imported with author "komalg", but could not be found
+Post 381 was marked for post-processing, but none was required.
+Running post-processing for post 382
+Could not find the author for "Heart Rainbow Icon" (post #382)
+Post 382 was imported with author "komalg", but could not be found
+Post 382 was marked for post-processing, but none was required.
+Running post-processing for post 406
+Could not find the author for "Couple smiling newlyweds posing outdoors" (post #406)
+Post 406 was imported with author "komalg", but could not be found
+Post 406 was marked for post-processing, but none was required.
+Running post-processing for post 408
+Could not find the author for "Well Dressed Groom" (post #408)
+Post 408 was imported with author "komalg", but could not be found
+Post 408 was marked for post-processing, but none was required.
+Running post-processing for post 482
+Could not find the author for "Wedding-Yost-SEO-free-img" (post #482)
+Post 482 was imported with author "komalg", but could not be found
+Post 482 was marked for post-processing, but none was required.
+Running post-processing for post 493
+Could not find the author for "Bride-free-img" (post #493)
+Post 493 was imported with author "komalg", but could not be found
+Post 493 was marked for post-processing, but none was required.
+
+---
+
+3. Imported "Site Options"  - 05:34:31 UTC
+
+---
+
+4. Importing "Widgets"  - 05:34:32 UTC
+Sidebar: sidebar-1
+Widget: "Search" - Widget already exists
+Widget: "Recent Posts" - Widget already exists
+Widget: "Recent Comments" - Widget already exists
+Widget: "Archives" - Widget already exists
+Widget: "Categories" - Widget already exists
+Widget: "Meta" - Widget already exists
+
+---
+
+Import Complete!  - 05:34:33 UTC
